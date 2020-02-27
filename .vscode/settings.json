@@ -1,0 +1,6 @@
+{
+    "search.useGlobalIgnoreFiles": true,
+    "git.allowForcePush": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.autofetch": true
+}
